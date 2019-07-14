@@ -1,4 +1,4 @@
-Rainbow  and the unicorn
+Rainbow  and the unicorn and the ponies
 blue
 green
 red 
@@ -7,3 +7,4 @@ purple
 yellow
 pink and black are not present
 the unicorn
+the ponies are white
