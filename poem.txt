@@ -5,3 +5,4 @@ red
 orange
 purple
 yellow
+pink and black are not present
