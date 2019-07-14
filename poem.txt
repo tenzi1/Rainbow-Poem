@@ -7,3 +7,4 @@ purple
 yellow
 pink and black are not present
 the unicorn
+indigo
