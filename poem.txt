@@ -1,0 +1,6 @@
+Rainbow colors
+blue
+green
+red 
+orange
+purple
